@@ -7,4 +7,4 @@ This is an ongoing experiment with robotic control, navigation and, ultimately c
 
 See the wiki for more info
 
-[ThreeQuarterFrontView]: ../blob/master/images/ThreeQuarterFront.jpg "Three Quarter Front View"
+[ThreeQuarterFrontView]: ../images/ThreeQuarterFront.jpg "Three Quarter Front View"
