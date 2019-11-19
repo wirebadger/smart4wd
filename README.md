@@ -5,6 +5,6 @@ This is an ongoing experiment with robotic control, navigation and, ultimately c
 
 ![Three Quarter Front View][ThreeQuarterFrontView]
 
-See the wiki for more info
+See the [wiki][https://github.com/wirebadger/smart4wd/wiki] for more info
 
 [ThreeQuarterFrontView]: ./images/ThreeQuarterFront.jpg "Three Quarter Front View"
